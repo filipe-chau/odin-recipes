@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# THE ODIN PROJECTS - PROJECT 01: RECIPES WEBSITE
 
 
 ## Table of contents
