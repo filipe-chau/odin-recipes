@@ -21,7 +21,7 @@ img {
 }
 h1, p, ul {
     text-align: center;
-    line-height: 1.4;
+    line-height: 1.6;
     list-style: none;
    
 }
@@ -46,7 +46,7 @@ h3 {
 ul li, ol li {
     text-align: center;
     font-size: 16px;
-    line-height: 1.7;
+    line-height: 1.8;
 }
 
 button {
