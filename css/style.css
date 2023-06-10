@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600&display=swap');
 
 
 *{
@@ -8,28 +8,54 @@
     text-decoration: none;
 }
 body {
-    font-family: 'Roboto', sans-serif;
- 
+    font-family: 'Comfortaa', cursive;
+    padding: 15px 15%;
 }
 img {
     height: auto;
-    width: 650px;
+    width: 600px;
+    border-radius: 7px;
 }
 .cover {
-    margin: auto;
-    width: 50%;
-    padding: 20px;
+    margin-left: 175px;
 }
-h1, ul {
+h1, p, ul {
     text-align: center;
-    line-height: 1.7;
+    line-height: 1.4;
+    list-style: none;
 }
 h1 {
     margin-bottom: 20px;
+    font-size: 45px;
 }
 ul li {
     font-size: 20px;
 }
 ul li a {
     color: #000;
+}
+h3 {
+    text-align: center;
+    margin: 25px 0 10px 0;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+ul li, ol li {
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+button {
+    padding: 10px 13px;
+    border-radius: 10px;
+    border-style: none;
+    background: #eab676;
+    margin: 15px 0 0 430px;
+}
+button a {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
 }
