@@ -9,6 +9,7 @@
 }
 body {
     font-family: 'Roboto', sans-serif;
+ 
 }
 img {
     height: auto;
@@ -21,5 +22,14 @@ img {
 }
 h1, ul {
     text-align: center;
-    line-height: 1.5;
+    line-height: 1.7;
+}
+h1 {
+    margin-bottom: 20px;
+}
+ul li {
+    font-size: 20px;
+}
+ul li a {
+    color: #000;
 }
