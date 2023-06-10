@@ -23,13 +23,15 @@ h1, p, ul {
     text-align: center;
     line-height: 1.4;
     list-style: none;
+   
 }
 h1 {
     margin-bottom: 20px;
     font-size: 45px;
 }
-ul li {
-    font-size: 20px;
+.main-ul li {
+    font-size: 25px;
+    font-weight: 600;
 }
 ul li a {
     color: #000;
@@ -52,7 +54,7 @@ button {
     border-radius: 10px;
     border-style: none;
     background: #eab676;
-    margin: 15px 0 0 430px;
+    margin: 15px 0 0 250px;
 }
 button a {
     color: #000;
