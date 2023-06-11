@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/filipe-chau/odin-recipes)
-- Live Site URL: [Add live site URL here](https://filipe-chau.github.io/odin-recipes/)
+- Solution URL: [Recipe Website](https://github.com/filipe-chau/odin-recipes)
+- Live Site URL: [Recipe Website](https://filipe-chau.github.io/odin-recipes/)
 
 ## My process
 
