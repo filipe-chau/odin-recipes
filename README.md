@@ -1,4 +1,4 @@
-# THE ODIN PROJECTS - PROJECT 01: RECIPES WEBSITE
+# THE ODIN PROJECTS - RECIPES WEBSITE
 
 
 ## Table of contents
@@ -9,7 +9,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -23,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/filipe-chau/odin-recipes)
+- Live Site URL: [Add live site URL here](https://filipe-chau.github.io/odin-recipes/)
 
 ## My process
 
@@ -54,5 +53,5 @@
 
 ## Acknowledgments
 
-I thank me, for always being with me no matter what! Rss
+I'm so thankful for this great free resource, The Odin I am so grateful for this great free resource, The Odin Project. This is what really drives people to learn things, actively learn in the right sense of the word, I hope to give back by sharing all the knowledge I have gained with my peers.
 
